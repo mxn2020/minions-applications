@@ -1,6 +1,12 @@
 ---
 name: minions-applications
-description: Application records, submission bundles, platform receipts, and status tracking
+id: OC-0104
+version: 1.0.0
+description: "Application records, submission bundles, platform receipts, and status tracking"
+category: ai
+subcategory: general
+tags: ["minion", "ai", "general"]
+comments:
 ---
 
 # minions-applications — Agent Skills

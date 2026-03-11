@@ -1,0 +1,8 @@
+name: "@minions-applications/sdk"
+project_scope: child
+child_type: sdk
+parent_project: minions-applications-workspace
+description: "Application records, submission bundles, platform receipts, and status tracking"
+priority: high
+deploy_url: null
+tags: null

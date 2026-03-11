@@ -1,0 +1,15 @@
+name: minions-applications-workspace
+project_scope: main
+project_type: monorepo
+description: "Application records, submission bundles, platform receipts, and status tracking"
+tier: idea
+lane: minions
+priority: medium
+oss: true
+stack: [typescript]
+repo: "https://github.com/mxn2020/minions-applications"
+deploy_url: null
+last_active: 2026-02-23
+tags: [minion, toolbox, ai-agent, automation, minions, applications]
+notes: null
+id: 340075c1-f31c-4873-99fb-fd5d2f239c7b

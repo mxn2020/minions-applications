@@ -1,0 +1,8 @@
+name: minions-applications-web
+project_scope: child
+child_type: web-app
+parent_project: minions-applications-workspace
+description: Standard compliance definition for minions-applications-web
+priority: high
+deploy_url: null
+tags: null

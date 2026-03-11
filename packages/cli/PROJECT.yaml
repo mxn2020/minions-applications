@@ -1,0 +1,8 @@
+name: "@minions-applications/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-applications-workspace
+description: "CLI for minions-applications — Application records, submission bundles, platform receipts, and status tracking"
+priority: high
+deploy_url: null
+tags: null
